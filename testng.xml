@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/vaibh/IdeaProjects/MakeMyTrip_Automation"><classes><class name="mmt.testcases.BookTrainTest"><methods><include name="bookTrainTest"/></methods></class><class name="mmt.testcases.LoginPageTest"><methods><include name="loginPageUrlTest"/><include name="loginTest"/></methods></class></classes></test></suite>
